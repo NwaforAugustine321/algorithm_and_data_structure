@@ -32,7 +32,7 @@ function validateString(s) {
   return true;
 }
 
-let input = 'A man, a plan, a canal: Panama';
+let input = 'ab';
 
 const result = isPalindrome(input);
 console.log(result);
